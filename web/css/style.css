@@ -42,7 +42,7 @@ ul{
 	padding:0;
 }
 .navbar-header {
-    width: 17%;
+    width: 40%;
     float: left;
 }
 .navbar-header h1 {
@@ -51,8 +51,8 @@ ul{
     display: block;
 }
 div#bs-example-navbar-collapse-1 {
-    width: 76%;
-    float: left;
+    width: 60%;
+    float: right;
 }
 /*--header-nav--*/
 .header{
